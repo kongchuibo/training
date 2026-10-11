@@ -1,4 +1,5 @@
-#include <iostream>//I don't have Chinese input method,so I can only use English
+//I don't have Chinese input method,so I can only use English,and I placed the comments after each error
+#include <iostream>
 #include <string>
 
 bool contains_between(const std::string& text, char lower, char upper) {
